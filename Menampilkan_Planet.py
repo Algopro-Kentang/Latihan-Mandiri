@@ -25,7 +25,7 @@ def gambar_neptunus():
     with Image.open("Gambar_Planet/neptunus.jpeg") as im:
         im.show()
     
-
+# Progam_by: Ulinnuha (265)
 
         
 
